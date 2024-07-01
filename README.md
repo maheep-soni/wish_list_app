@@ -1,0 +1,1 @@
+this is a fully functional wish list page for add as well as remove wishes and check and uncheck also and in refresh time wishes not going to disapear it save in browser local storage how much time you refresh as well as close the browser tab but the your wishes always will showing.
